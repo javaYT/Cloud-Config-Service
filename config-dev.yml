@@ -1,7 +1,2 @@
 config:
   info: mastet branch springcloud-configIconfig-dev.yml version="2"
-consul:
-      port: 8500
-      discovery:
-        instance-id: ${spring.application.name}
-        service-name: ${spring.application.name}
